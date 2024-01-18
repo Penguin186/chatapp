@@ -1,0 +1,15 @@
+html {
+    background-color: black;
+}
+
+#logout {
+    margin-top: 850px;
+    width: 10%;
+    border-radius: 15px;
+    height: 5%;
+}
+
+#userwelcome {
+    color: white;
+    font: 1em sans-serif;
+}
